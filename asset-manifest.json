@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/watch-trailers-react/static/css/main.59a3c577.chunk.css",
+    "main.js": "/watch-trailers-react/static/js/main.1c761831.chunk.js",
+    "main.js.map": "/watch-trailers-react/static/js/main.1c761831.chunk.js.map",
+    "runtime-main.js": "/watch-trailers-react/static/js/runtime-main.297179c4.js",
+    "runtime-main.js.map": "/watch-trailers-react/static/js/runtime-main.297179c4.js.map",
+    "static/js/2.14304463.chunk.js": "/watch-trailers-react/static/js/2.14304463.chunk.js",
+    "static/js/2.14304463.chunk.js.map": "/watch-trailers-react/static/js/2.14304463.chunk.js.map",
+    "index.html": "/watch-trailers-react/index.html",
+    "static/css/main.59a3c577.chunk.css.map": "/watch-trailers-react/static/css/main.59a3c577.chunk.css.map",
+    "static/js/2.14304463.chunk.js.LICENSE.txt": "/watch-trailers-react/static/js/2.14304463.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.297179c4.js",
+    "static/js/2.14304463.chunk.js",
+    "static/css/main.59a3c577.chunk.css",
+    "static/js/main.1c761831.chunk.js"
+  ]
+}
