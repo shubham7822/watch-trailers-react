@@ -1,0 +1,39 @@
+.search_header {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  height: 100px;
+  align-items: center;
+  flex: 1;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.search_input {
+  height: 28px;
+  width: 100%;
+}
+
+.search_movie_posters {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+}
+
+.search {
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.search_button {
+  background-color: #f5c835;
+  color: black;
+  padding: 5px !important;
+}
+
+@media (min-width: 600px) {
+  .search_movie_posters {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,26 @@
+.login_logo {
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+
+.login_button {
+  display: block;
+  background-color: #f5c835;
+  padding: 10px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
+}
+
+.movie_loginbtn {
+  display: block;
+  padding: 10px;
+  background-color: #f5c835;
+  color: black;
+}

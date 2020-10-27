@@ -1,0 +1,48 @@
+.movie_image {
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+  max-height: 400px;
+  margin-top: 20px;
+  z-index: 1;
+  box-shadow: 0 0 5px 2px lightgray;
+}
+
+.movie {
+  background: black;
+  width: 100%;
+  max-width: 900px;
+  height: 700px;
+  max-height: auto;
+  box-shadow: 0px 0px 7px 2px lightgray;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.movie_button {
+  display: block;
+  padding: 8px;
+  background-color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 5px;
+  color: #000000 !important;
+  font-size: 20px;
+}
+.movie_title {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.movie_loginbtn {
+  display: block;
+  padding: 10px;
+  background-color: #f5c835;
+  color: black;
+  font-size: 20px;
+}
+
+.movie_redirect_to_login {
+  text-decoration: none;
+}
