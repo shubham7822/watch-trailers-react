@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shubham7822.github.io/watch-trailers-here-react-redux-app-",
+  "homepage": "http://shubham7822.github.io/watch-trailers-react",
   "name": "movie-api-redux",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm-run-build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
