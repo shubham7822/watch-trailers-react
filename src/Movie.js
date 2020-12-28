@@ -25,7 +25,7 @@ function Movie({ Image, title, movieclick }) {
 
   const opts = {
     height: "100%",
-    width: "500",
+    width: "300",
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
       autoplay: 1,

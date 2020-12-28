@@ -27,13 +27,17 @@
 }
 
 .search_button {
-  background-color: #f5c835;
+  background-color: #f5c835 !important;
   color: black;
   padding: 5px !important;
 }
-
-@media (min-width: 600px) {
+@media (max-width: 600px) {
+  .search {
+    max-width: 600px;
+  }
   .search_movie_posters {
-    grid-template-columns: repeat(2, 1fr);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 40px;
   }
 }

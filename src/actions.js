@@ -20,7 +20,7 @@ export const getmovies = (input) => {
         const movies = response.data;
         dispatch(fetchMovies(movies));
       })
-      .catch((error) => {
+      .catch(() => {
         console.log("error fetching data");
       });
   };

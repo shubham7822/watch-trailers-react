@@ -1,8 +1,7 @@
 .movie_image {
-  width: 100%;
   max-width: 400px;
   height: 100%;
-  max-height: 400px;
+  max-height: 300px;
   margin-top: 20px;
   z-index: 1;
   box-shadow: 0 0 5px 2px lightgray;
@@ -10,10 +9,8 @@
 
 .movie {
   background: black;
-  width: 100%;
-  max-width: 900px;
-  height: 700px;
-  max-height: auto;
+  max-width: 400px;
+  height: 600px;
   box-shadow: 0px 0px 7px 2px lightgray;
   display: flex;
   align-items: center;
@@ -45,4 +42,13 @@
 
 .movie_redirect_to_login {
   text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .movie {
+    height: 600px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
