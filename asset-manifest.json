@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/watch-trailers-react/static/css/main.36dcaf5d.chunk.css",
-    "main.js": "/watch-trailers-react/static/js/main.136c60f5.chunk.js",
-    "main.js.map": "/watch-trailers-react/static/js/main.136c60f5.chunk.js.map",
+    "main.css": "/watch-trailers-react/static/css/main.b7d439a1.chunk.css",
+    "main.js": "/watch-trailers-react/static/js/main.cca517e5.chunk.js",
+    "main.js.map": "/watch-trailers-react/static/js/main.cca517e5.chunk.js.map",
     "runtime-main.js": "/watch-trailers-react/static/js/runtime-main.297179c4.js",
     "runtime-main.js.map": "/watch-trailers-react/static/js/runtime-main.297179c4.js.map",
-    "static/js/2.14304463.chunk.js": "/watch-trailers-react/static/js/2.14304463.chunk.js",
-    "static/js/2.14304463.chunk.js.map": "/watch-trailers-react/static/js/2.14304463.chunk.js.map",
+    "static/js/2.3ea8a370.chunk.js": "/watch-trailers-react/static/js/2.3ea8a370.chunk.js",
+    "static/js/2.3ea8a370.chunk.js.map": "/watch-trailers-react/static/js/2.3ea8a370.chunk.js.map",
     "index.html": "/watch-trailers-react/index.html",
-    "static/css/main.36dcaf5d.chunk.css.map": "/watch-trailers-react/static/css/main.36dcaf5d.chunk.css.map",
-    "static/js/2.14304463.chunk.js.LICENSE.txt": "/watch-trailers-react/static/js/2.14304463.chunk.js.LICENSE.txt"
+    "static/css/main.b7d439a1.chunk.css.map": "/watch-trailers-react/static/css/main.b7d439a1.chunk.css.map",
+    "static/js/2.3ea8a370.chunk.js.LICENSE.txt": "/watch-trailers-react/static/js/2.3ea8a370.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.297179c4.js",
-    "static/js/2.14304463.chunk.js",
-    "static/css/main.36dcaf5d.chunk.css",
-    "static/js/main.136c60f5.chunk.js"
+    "static/js/2.3ea8a370.chunk.js",
+    "static/css/main.b7d439a1.chunk.css",
+    "static/js/main.cca517e5.chunk.js"
   ]
 }
