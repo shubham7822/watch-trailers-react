@@ -31,7 +31,7 @@ function Search(props) {
           placeholder='Watch Trailers'
           type='text'
         />
-        <Button disabled={!input}  onClick={searchHandler} className="search_button"> // Disable if not having input
+        <Button disabled={!input}  onClick={searchHandler} className="search_button">
         <SearchIcon/>
         </Button>
       </div>
